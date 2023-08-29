@@ -1,6 +1,6 @@
 const recipe = {
   name: "Afang soup",
-  ImgUrl: "/src/assets/afang-soup.jpg",
+  ImgUrl: "/afang-soup.jpg",
   ingredients: [
     "400g sliced Okazi/Afang leaves | about 4 handfuls",
     "250g Water leaves",
