@@ -36,7 +36,7 @@ function RecipePage() {
                   ))}
                 </ul>
               </div>
-              <div className="flex-1">
+              <div className="flex-1 font-semibold">
                 <h1 className="text-slate-600 text-lg bg-slate-200 p-3">
                   Instructions
                 </h1>
